@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# DVC cache and temp
+/.dvc/cache
+/.dvc/tmp
+
+# local data, models
+data/
+models/
+*.ckpt
+*.h5
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# jupyter
+.ipynb_checkpoints/
