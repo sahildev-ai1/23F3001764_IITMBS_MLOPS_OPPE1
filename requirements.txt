@@ -1,14 +1,4 @@
-# DVC with GCS support
-dvc[gcs]
-dvc-gs
-# Google Cloud storage Python API + filesystem driver (helpful if you use pandas read)
-google-cloud-storage
-gcsfs
-
-# Utilities often useful for MLOps scripts
-gitpython
-pyyaml
-
-# small extras in case you use them later
+scikit-learn
+joblib
 pandas
 numpy
